@@ -13,28 +13,7 @@ Este aplicativo é um reprodutor de vídeos do YouTube integrado a um formulári
 4. **Exibição do Vídeo:** Uma vez inserido o link do vídeo e clicado em "REPRODUZIR", o vídeo é incorporado à página HTML.
 5. **Feedback de Erro:** Se o usuário tentar reproduzir ou parar sem inserir um link válido, ele receberá um alerta indicando que é necessário inserir um link do YouTube primeiro.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/IFRAME-DO-YOUTUBE-VOLUME-2.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd IFRAME-DO-YOUTUBE-VOLUME-2
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip IFRAME-DO-YOUTUBE-VOLUME-2.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Inserir Link do Vídeo:** Digite ou cole o link do vídeo do YouTube no campo de texto.
 2. **Reproduzir Vídeo:** Clique no botão "REPRODUZIR" para iniciar a reprodução do vídeo.
 3. **Parar Reprodução:** Se desejar parar a reprodução do vídeo, clique no botão "PARAR".
@@ -42,9 +21,9 @@ unzip IFRAME-DO-YOUTUBE-VOLUME-2.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
