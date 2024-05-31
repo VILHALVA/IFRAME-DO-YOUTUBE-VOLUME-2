@@ -27,4 +27,3 @@ Este aplicativo é um reprodutor de vídeos do YouTube integrado a um formulári
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
